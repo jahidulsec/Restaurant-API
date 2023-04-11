@@ -42,7 +42,20 @@ python manage.py makemigrations
 python manage.py migrate
 
 python manage.py runserver 
+
 ```
+### Browsing `menu-item` endpoint using the browser:
+![menu item browsing endpoint screenshot](https://github.com/jahidulsec/Restaurant-API/1.png)
+
+### Making an HTTP `GET` call to `menu-item` endpoint:
+![HTTP `GET` call to `menu-item` endpoint screenshot](https://github.com/jahidulsec/Restaurant-API/2.png)
+
+### Adding a user as a manager with admin token
+![Adding a user as a manager with admin token](https://github.com/jahidulsec/Restaurant-API/3.png)
+
+### The HTTP body content to add a user to the manager group with an admin token:
+![add a user to the manager group with an admin token](https://github.com/jahidulsec/Restaurant-API/4.png)
+
 
 ## Credit
 This project is a part of course work of APIs (Meta | Coursera). 
