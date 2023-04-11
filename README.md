@@ -24,6 +24,8 @@ In this project, Little Lemon API targeted to make it possible for your end-user
 20. Customers can place orders
 21. Customers can browse their own orders
 
+### Tech: Django, Rest APIs, DRF, MySQL
+
 ## Run the project
 To run this api,
 - prepare virual environment
@@ -45,16 +47,16 @@ python manage.py runserver
 
 ```
 ### Browsing `menu-item` endpoint using the browser:
-![menu item browsing endpoint screenshot](https://github.com/jahidulsec/Restaurant-API/1.png)
+![menu item browsing endpoint screenshot](https://github.com/jahidulsec/Restaurant-API/blob/main/1.png)
 
 ### Making an HTTP `GET` call to `menu-item` endpoint:
-![HTTP `GET` call to `menu-item` endpoint screenshot](https://github.com/jahidulsec/Restaurant-API/2.png)
+![HTTP `GET` call to `menu-item` endpoint screenshot](https://github.com/jahidulsec/Restaurant-API/blob/main/2.png)
 
 ### Adding a user as a manager with admin token
-![Adding a user as a manager with admin token](https://github.com/jahidulsec/Restaurant-API/3.png)
+![Adding a user as a manager with admin token](https://github.com/jahidulsec/Restaurant-API/blob/main/3.png)
 
 ### The HTTP body content to add a user to the manager group with an admin token:
-![add a user to the manager group with an admin token](https://github.com/jahidulsec/Restaurant-API/4.png)
+![add a user to the manager group with an admin token](https://github.com/jahidulsec/Restaurant-API/blob/main/4.png)
 
 
 ## Credit
