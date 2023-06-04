@@ -8,6 +8,8 @@ django = "*"
 djangorestframework = "*"
 djoser = "*"
 mysqlclient = "*"
+pymysql = "*"
+dj-database-url = "*"
 
 [dev-packages]
 
